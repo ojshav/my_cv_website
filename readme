@@ -1,1 +1,70 @@
 Hey, This is my cv website which made using HTML and CSS basics
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   
+    <title>Ojshav Saxena.</title>
+    <link rel="stylesheet" type = "text/css"href="css/style.css">
+    <link rel="icon" href="favicon-mine.ico"> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Montserrat:ital,wght@1,300&family=Sacramento&display=swap" rel="stylesheet">
+    
+    
+
+</head>
+<body>
+    <div class="cv">
+        <img class="top_cloud"src="CSS+-+My+Site+Images/CSS - My Site Images/cloud.png" alt="cloud_pic">
+        <h1>I'm Ojshav</h1>
+        <h2>A Programmer</h2>
+    
+    <img class="bottom_cloud" src="CSS+-+My+Site+Images/CSS - My Site Images/cloud.png" alt="cloud_pic">
+    <img src="CSS+-+My+Site+Images/CSS - My Site Images/mountain.png" alt="mountain_pic">
+    </div>
+    
+    <div class="bottom_container"></div>
+    <div class="middle-container">
+        <div class="profile">
+          <img src="CSS+-+My+Site+Images/CSS - My Site Images/my_cv_photo.png" alt="cv_photo">
+          <h2>Hello.</h2>
+          <p>I am Programmer, Web devloper and currently I am in doing Btech in Artificial Intelligence and Machine Learning.💻</p>
+        </div>
+        <hr>
+        <div class="skills">
+          <h2>My Skills.</h2>
+          <div class="skill-row">
+            <img class="skill" src="CSS+-+My+Site+Images/CSS - My Site Images/skills.png" alt="">
+            <h3>Design, Devlopmetnt and problem solving</h3>
+            <p> I was 15 years old when i wrote my first code since then i have gained experience in solving and devloping differnet projects through programming</p>
+          </div>
+          <div class="skill-row">
+            
+            <img class="movie" src="CSS+-+My+Site+Images/CSS - My Site Images/movie_watching.png" alt="">
+            <h3>Cinephile</h3>
+            <p>I love to watch different movies, web-series and Anime , My favourite genres are Sci-fi, Action and rom-com.🍿
+            </p>
+          </div>
+        </div>
+        <hr>
+        <div class="contact-me">
+          <h2>Get In Touch</h2>
+          <h3>If you are also a Cinephile.</h3>
+          <p style="margin-bottom: 50px;">So we can discuss about movies and Code together 😉.</p>
+          <a class="btn" href="ojshavsaxenaa@gmail.com">CONTACT ME</a>
+        </div>
+      </div>
+      
+      
+      <div class="bottom-container">
+        <a class="linkdin" href="https://www.linkedin.com/in/ojshav-saxena-5b36701b3/">LinkedIn</a>
+        <a class="twitter" href="https://twitter.com/OjshavS">Twitter</a>
+    
+        <p class="desc">© 2023 Ojshav Saxena.</p>
+      </div>
+      
+    
+
+</body>
+</html>
